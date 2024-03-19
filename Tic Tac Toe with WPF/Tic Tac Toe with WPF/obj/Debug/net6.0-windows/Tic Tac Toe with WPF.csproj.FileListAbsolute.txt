@@ -1,0 +1,22 @@
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\App.g.cs
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF_MarkupCompile.cache
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF_MarkupCompile.lref
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\bin\Debug\net6.0-windows\Tic Tac Toe with WPF.exe
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\bin\Debug\net6.0-windows\Tic Tac Toe with WPF.deps.json
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\bin\Debug\net6.0-windows\Tic Tac Toe with WPF.runtimeconfig.json
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\bin\Debug\net6.0-windows\Tic Tac Toe with WPF.dll
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\bin\Debug\net6.0-windows\Tic Tac Toe with WPF.pdb
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\App.baml
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\MainWindow.baml
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.g.resources
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.AssemblyInfoInputs.cache
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.AssemblyInfo.cs
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.csproj.CoreCompileInputs.cache
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.dll
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\refint\Tic Tac Toe with WPF.dll
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.pdb
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF.genruntimeconfig.cache
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\ref\Tic Tac Toe with WPF.dll
+E:\.NanoSoft\6.3.24\Tic Tac Toe with WPF\Tic Tac Toe with WPF\obj\Debug\net6.0-windows\Tic Tac Toe with WPF_Content.g.cs
